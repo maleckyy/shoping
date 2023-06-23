@@ -1,4 +1,4 @@
 # Picture shop
 
-https://admirable-cat-2779ee.netlify.app/
+site: https://admirable-cat-2779ee.netlify.app/
 
