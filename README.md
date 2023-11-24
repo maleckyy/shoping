@@ -19,6 +19,6 @@ Sklep ze zdjęciami realizowany podczas nauki biblioteki React.js
 * React router
 
 
-##### Link do strony: hhttps://admirable-cat-2779ee.netlify.app
+##### Link do strony: https://admirable-cat-2779ee.netlify.app
 
 
